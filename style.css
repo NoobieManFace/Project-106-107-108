@@ -1,0 +1,23 @@
+body{
+background-image:radial-gradient(magenta,orange,yellow,pink,lime,blue,cyan,red,white,violet,azure,black);
+text-align:center;
+}
+p{
+font-size:25px;
+color:darkblue;
+}
+#Classifier{
+font-size:30px;
+width:150px;
+border-radius:20px;
+background-color: crimson;
+}
+.Copy_right_footer{
+position:fixed;
+background-color: rgba(255, 132, 0, 0.901);
+width:100%;
+line-height:2.5;
+text-shadow:5px 5px 5px rgb(217, 0, 255);
+font-size:large;
+bottom:0;
+}
